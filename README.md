@@ -31,7 +31,7 @@ Replay: Choose to play another round without restarting the script.
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/tic-tac-toe-python.git
+https://github.com/RohanSMetkar/Project_on_Tic_Tac_Toe_Game
 Navigate to the directory:
 
 Bash
